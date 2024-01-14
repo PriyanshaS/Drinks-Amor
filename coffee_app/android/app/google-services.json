@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "217537603000",
+    "firebase_url": "https://assignmentapp-91f89-default-rtdb.firebaseio.com",
+    "project_id": "assignmentapp-91f89",
+    "storage_bucket": "assignmentapp-91f89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217537603000:android:0a5247d62f8f6f99e91b4d",
+        "android_client_info": {
+          "package_name": "com.example.assignment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbQBYydaTZDvKI0xWXevpmowcj75U8p78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217537603000:android:79bfe6bfa37e6f22e91b4d",
+        "android_client_info": {
+          "package_name": "com.example.coffee_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbQBYydaTZDvKI0xWXevpmowcj75U8p78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217537603000:android:f6baf57fe0dc0954e91b4d",
+        "android_client_info": {
+          "package_name": "com.example.coffee_brew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbQBYydaTZDvKI0xWXevpmowcj75U8p78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
