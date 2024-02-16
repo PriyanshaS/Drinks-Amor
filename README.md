@@ -19,9 +19,11 @@ Firebase Backend: Utilizes Firebase for secure authentication, real-time databas
 <img src="https://raw.githubusercontent.com/PriyanshaS/Drinks-Amor/master/coffee_app/assets/images/homepage.jpeg" width="150" height="280">
 <img src="https://raw.githubusercontent.com/PriyanshaS/Drinks-Amor/master/coffee_app/assets/images/product.jpeg" width="150" height="280">
 <img src="https://raw.githubusercontent.com/PriyanshaS/Drinks-Amor/master/coffee_app/assets/images/profile.jpeg" width="150" height="280">
+<img src="https://raw.githubusercontent.com/PriyanshaS/Drinks-Amor/master/coffee_app/assets/images/map.jpeg" width="150" height="280">
 <img src="https://raw.githubusercontent.com/PriyanshaS/Drinks-Amor/master/coffee_app/assets/images/cart.jpeg" width="150" height="280">
 <img src="https://raw.githubusercontent.com/PriyanshaS/Drinks-Amor/master/coffee_app/assets/images/payment_options.jpeg" width="150" height="280">
 <img src="https://raw.githubusercontent.com/PriyanshaS/Drinks-Amor/master/coffee_app/assets/images/payment_success.jpeg" width="150" height="280">
+
 ## Getting Started
 To get started with Drinks-Amor, follow these simple steps:
 
